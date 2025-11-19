@@ -1,2 +1,2 @@
 # NoAmmoCounterHud
-Use this script to remove the original gta 5 ammo counter hud in your FiveM server!
+Watch the tutorial on my YouTube if you do not know how to install! https://www.youtube.com/@Wock-k2u
